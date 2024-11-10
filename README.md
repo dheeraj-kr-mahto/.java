@@ -1,2 +1,2 @@
 # .java
-java assignment codes
+java assignment code
